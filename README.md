@@ -42,10 +42,11 @@ waveform-inversion-project/ ├── data/ # Sample data and data loading scrip
 📊 Modeling and visualizations coming soon  
 🛠️ Final portfolio report in development
 
+
 ## 👩‍💻 About Me
 Hi! I'm Golboo Jamshidi—a Quality Systems Engineering grad from Concordia University, moving into data analytics after several years in product, operations, and healthcare systems. This project showcases how I blend **engineering structure** with **data curiosity** to solve meaningful problems.
 
-📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/golboojamshidi/)
+📫 Let's connect on [LinkedIn Profile](https://www.linkedin.com/in/golboo-jamshidi/)
 
 
 
